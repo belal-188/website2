@@ -85,8 +85,8 @@ ul {
     width: 855px;
     height: 144px;
     z-index: 10;
-    -webkit-mask: url(/images/menu-bg.svg) no-repeat 0 100%;
-    mask: url(/images/menu-bg.svg) no-repeat 0 100%;
+    -webkit-mask: url(images/menu-bg.svg) no-repeat 0 100%;
+    mask: url(images/menu-bg.svg) no-repeat 0 100%;
     background-color: #005388;
     -webkit-transition: all .5s ease;
     -o-transition: all .5s ease;
@@ -183,7 +183,7 @@ ul {
   bottom: -46px;
   width: 384px;
   height: 250px;
-  background-image: url('/images/main-slider-arrow-bg.svg');
+  background-image: url('images/main-slider-arrow-bg.svg');
   background-size: cover;
   z-index: 0;
   transition: width 0.5s ease, height 0.5s ease; /* Smooth transition */
